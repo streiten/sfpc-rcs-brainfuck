@@ -17,5 +17,5 @@ generates this beautiful emoticon
 ```
 
 ## Utils
-[Brainfuck Interpreter](http://brainfuck.tk/)
+[Brainfuck Interpreter](http://brainfuck.tk/)  
 [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/)
