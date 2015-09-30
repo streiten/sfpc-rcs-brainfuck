@@ -17,7 +17,7 @@ generates this emoticon
 !(>,<)!
 ```
 
-and can be obtained as a (nice poster here)[http://selekkt.com/rainbow-unicorn-tl-dr-raging-poster.html]
+and can be obtained as a [nice poster here](http://selekkt.com/rainbow-unicorn-tl-dr-raging-poster.html)
 
 ## Utils
 [Brainfuck Interpreter](http://brainfuck.tk/)  
