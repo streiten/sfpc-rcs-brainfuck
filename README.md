@@ -1,6 +1,7 @@
 ### SFPC: Radical Computer Science - Brainfuck
 
-Expirience a true classic in esoteric languages
+Expirience a true classic in esoteric languages!
+The following beautiful pattern
 
 ```
 ++++[>+++++[
@@ -11,7 +12,7 @@ Expirience a true classic in esoteric languages
 --.--------.
 ```
 
-generates this beautiful emoticon
+generates this emoticon
 ```
 !(>,<)!
 ```
